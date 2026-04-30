@@ -1,77 +1,57 @@
 🌾 AGRICULTURE + LIVESTOCK FARMING KNOWLEDGE BASE (ETHIOPIA)
 
 ====================================================
-🌱 CROP FARMING (የእርሻ ስራ)
+🌱 CROP FARMING
 ====================================================
 
 Tomato plants turn yellow due to nitrogen deficiency, overwatering, or poor soil drainage.
-ቲማቲም ቅጠል ቢጫ ሲሆን የናይትሮጅን እጥረት ወይም ብዙ ውሃ መጠጣት ምክንያት ነው።
 
 Maize (corn) needs nitrogen-rich fertilizer and well-drained fertile soil.
-በቆሎ ከፍተኛ ናይትሮጅን ያለው ማዳበሪያ እና ጥሩ የውሃ መፍሰሻ ያለው መሬት ይፈልጋል።
 
 Wheat grows best in cool seasons with moderate rainfall.
-ስንዴ በቀዝቃዛ ወቅት እና መካከለኛ ዝናብ ሲኖር በተሻለ ይበቅላል።
 
 Crop diseases include rust, blight, mildew, and leaf spot.
-የእርሻ በሽታዎች እንደ ዝግ, ብላይት, ሚልደው እና ቅጠል በሽታ ይገኛሉ።
 
 Soil testing improves crop yield and helps choose correct fertilizer.
-የአፈር ምርመራ የእርሻ ምርትን ይጨምራል።
 
 Crop rotation improves soil fertility and reduces pests naturally.
-የእርሻ ልውውጥ አፈርን ያበረከታል እና ተባዮችን ይቀንሳል።
 
 Irrigation should be done early morning or evening to reduce water loss.
-መስኖ በጠዋት ወይም በምሽት መስራት ይመከራል።
 
 ====================================================
-🐄 LIVESTOCK FARMING (እንስሳት እርባታ)
+🐄 LIVESTOCK FARMING
 ====================================================
 
 Cows may get sick due to parasites, infections, or poor feeding.
-ከብቶች በተባዮች፣ በሽታ ወይም ደካማ ምግብ ምክንያት ይታመማሉ።
 
 Common cow diseases include mastitis, foot-and-mouth disease, and bloat.
-የተለመዱ የከብት በሽታዎች ማስታይቲስ፣ የእግር እና አፍ በሽታ እና እብጠት ናቸው።
 
 Goats need clean water, balanced feed, and safe shelter.
-ፍየሎች ንጹህ ውሃ እና ጥሩ ምግብ ይፈልጋሉ።
 
 Chickens require vaccination to prevent diseases like Newcastle disease.
-ዶሮዎች በሽታን ለመከላከል ክትባት ይፈልጋሉ።
 
 Overfeeding or underfeeding animals causes health problems and low productivity.
-ብዙ ወይም ትንሽ ምግብ መስጠት ችግኝ ያመጣል።
 
 ====================================================
-💧 FARM MANAGEMENT (የእርሻ አስተዳደር)
+💧 FARM MANAGEMENT
 ====================================================
 
 Proper manure management improves soil fertility.
-የእንስሳት ፍግ በትክክል መጠቀም አፈርን ያበረከታል።
 
 Farmers should monitor weather before spraying pesticides.
-አርሶ አደሮች ኬሚካል ከመርጨት በፊት የአየር ንብረት መመልከት አለባቸው።
 
 Integrated farming (crops + livestock) increases income stability.
-የተቀናጀ እርሻ (እርሻ + እንስሳት) ገቢን ያሳድጋል።
 
 Pest control should combine natural and chemical methods safely.
-ተባዮች መቆጣጠር በተፈጥሮ እና በኬሚካል መንገድ መሆን አለበት።
 
 ====================================================
-📊 GENERAL FARMING ADVICE (አጠቃላይ ምክር)
+📊 GENERAL FARMING ADVICE
 ====================================================
 
 Healthy soil = higher productivity.
-ጤናማ አፈር ከፍተኛ ምርት ይሰጣል።
 
 Regular farm inspection prevents diseases early.
-ተደጋጋሚ ምርመራ በሽታ በቀድሞ ይከላከላል።
 
 Balanced fertilizer use is better than overuse.
-ትክክለኛ ማዳበሪያ መጠቀም ይመከራል።
 
 Water conservation is important for sustainable farming.
-የውሃ ጥበቃ ለዘላቂ እርሻ አስፈላጊ ነው።
